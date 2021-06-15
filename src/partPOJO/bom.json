@@ -1,0 +1,800 @@
+[
+  {
+    "partNumber": "290B7266J1",
+    "name": "Rotor Shaft Assembly Final",
+    "partType": "ASSEMBLY",
+    "billOfMaterial": [
+      {
+        "partNumber": "290B7266J4",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "partNumber": "290B7266J4",
+    "name": "Rotor Shaft Assembly Machined",
+    "partType": "COMPONENT",
+    "billOfMaterial": [
+      {
+        "partNumber": "290B2350P2",
+        "quantity": 4
+      },
+      {
+        "partNumber": "290B5362G1",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "partNumber": "290B2350P2",
+    "name": "Shaft",
+    "partType": "COMPONENT",
+    "billOfMaterial": [
+      {
+        "partNumber": "290B3810T1",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "partNumber": "290B3810T1",
+    "name": "cold-rolled (CRS) steel Rod",
+    "partType": "COMPONENT",
+    "price": 10.95
+  },
+  {
+    "partNumber": "290B5362G1",
+    "name": "Rotor Core",
+    "partType": "COMPONENT",
+    "billOfMaterial": [
+      {
+        "partNumber": "290B3810C1",
+        "quantity": 2
+      },
+      {
+        "partNumber": "290B3810A1",
+        "quantity": 14
+      }
+    ]
+  },
+  {
+    "partNumber": "290B3810C1",
+    "name": "Laminated steel ingot",
+    "partType": "PURCHASE",
+    "price": 8.35
+  },
+  {
+    "partNumber": "290B3810A1",
+    "name": "Aluminum bar",
+    "partType": "PURCHASE",
+    "price": 2.31
+  },
+
+  {
+    "partNumber": "290B7266J2",
+    "name": "Rotor Shaft Assembly Final",
+    "partType": "ASSEMBLY",
+    "billOfMaterial": [
+      {
+        "partNumber": "290B7266J5",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "partNumber": "290B7266J5",
+    "name": "Rotor Shaft Assembly Machined",
+    "partType": "COMPONENT",
+    "billOfMaterial": [
+      {
+        "partNumber": "290B2350P1",
+        "quantity": 4
+      },
+      {
+        "partNumber": "290B5362G2",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "partNumber": "290B2350P1",
+    "name": "Shaft",
+    "partType": "COMPONENT",
+    "billOfMaterial": [
+      {
+        "partNumber": "290B3810T2",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "partNumber": "290B3810T2",
+    "name": "hot-rolled (HRS) steel Rod",
+    "partType": "COMPONENT",
+    "price": 12.95
+  },
+
+  {
+    "partNumber": "290B5362G2",
+    "name": "Rotor Core",
+    "partType": "COMPONENT",
+    "billOfMaterial": [
+      {
+        "partNumber": "290B3810C3",
+        "quantity": 5
+      },
+      {
+        "partNumber": "290B3810A2",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "partNumber": "290B3810C3",
+    "name": "Laminated steel ingot",
+    "partType": "PURCHASE",
+    "price": 10.35
+  },
+  {
+    "partNumber": "290B3810A2",
+    "name": "Aluminum bar",
+    "partType": "PURCHASE",
+    "price": 3.31
+  },
+
+
+  {
+    "partNumber": "290B7266J6",
+    "name": "Rotor Shaft Assembly Final",
+    "partType": "ASSEMBLY",
+    "billOfMaterial": [
+      {
+        "partNumber": "290B7266J12",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "partNumber": "290B7266J12",
+    "name": "Rotor Shaft Assembly Machined",
+    "partType": "COMPONENT",
+    "billOfMaterial": [
+      {
+        "partNumber": "290B2350P9",
+        "quantity": 2
+      },
+      {
+        "partNumber": "290B5362G2",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "partNumber": "290B2350P9",
+    "name": "Shaft",
+    "partType": "COMPONENT",
+    "billOfMaterial": [
+      {
+        "partNumber": "290B381041",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "partNumber": "290B381041",
+    "name": "cold-rolled (CRS) steel Rod",
+    "partType": "PURCHASE",
+    "price": 19.75
+  },
+
+  {
+    "partNumber": "20-0001",
+    "name": "EveryRoad GPS, Shippable, US Model 300",
+    "partType": "ASSEMBLY",
+    "billOfMaterial": [
+      {
+        "partNumber": "20-0002",
+        "quantity": 1
+      },
+      {
+        "partNumber": "20-0005",
+        "quantity": 1
+      },
+      {
+        "partNumber": "30-0085",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0009",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0081",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0084",
+        "quantity": 1
+      },
+      {
+        "partNumber": "50-0083",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "partNumber": "20-0002",
+    "name": "EveryRoad GPS Car Navigation Unit - Model 300",
+    "partType": "COMPONENT",
+    "billOfMaterial": [
+      {
+        "partNumber": "20-0003",
+        "quantity": 1
+      },
+      {
+        "partNumber": "20-0004",
+        "quantity": 1
+      },
+      {
+        "partNumber": "50-0010",
+        "quantity": 4
+      },
+      {
+        "partNumber": "50-0018",
+        "quantity": 1
+      },
+      {
+        "partNumber": "90-0006",
+        "quantity": 1
+      },
+      {
+        "partNumber": "90-0007",
+        "quantity": 1
+      },
+      {
+        "partNumber": "50-0087",
+        "quantity": 1
+      },
+      {
+        "partNumber": "50-0088",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "partNumber": "20-0003",
+    "name": "EveryRoad, Front Bezel Assembly",
+    "partType": "COMPONENT",
+    "billOfMaterial": [
+      {
+        "partNumber": "40-0011",
+        "quantity": 1
+      },
+      {
+        "partNumber": "50-0012",
+        "quantity": 1
+      },
+      {
+        "partNumber": "50-0080",
+        "quantity": 1
+      },
+      {
+        "partNumber": "20-0015",
+        "quantity": 1
+      },
+      {
+        "partNumber": "50-0016",
+        "quantity": 1
+      },
+      {
+        "partNumber": "50-0089",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "partNumber": "40-0011",
+    "name": "LCD",
+    "partType": "PURCHASE",
+    "price": 0.94
+  },
+  {
+    "partNumber": "50-0012",
+    "name": "EveryRoad, Front Bezel",
+    "partType": "COMPONENT",
+    "price": 1.46
+  },
+  {
+    "partNumber": "50-0080",
+    "name": "Gasket, Screen, 3.5in",
+    "partType": "COMPONENT",
+    "price": 1.24
+  },
+  {
+    "partNumber": "20-0004",
+    "name": "EveryRoad, Rear Assembly",
+    "partType": "COMPONENT",
+    "price": 0.75
+  },
+  {
+    "partNumber": "20-0015",
+    "name": "EveryRoad, PCBA, Model 300",
+    "partType": "COMPONENT",
+    "billOfMaterial": [
+      {
+        "partNumber": "40-0035",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0038",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0039",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0041",
+        "quantity": 5
+      },
+      {
+        "partNumber": "40-0042",
+        "quantity": 8
+      },
+      {
+        "partNumber": "40-0043",
+        "quantity": 4
+      },
+      {
+        "partNumber": "40-0044",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0045",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0046",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0047",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0048",
+        "quantity": 2
+      },
+      {
+        "partNumber": "40-0049",
+        "quantity": 2
+      },
+      {
+        "partNumber": "40-0050",
+        "quantity": 2
+      },
+      {
+        "partNumber": "40-0051",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0052",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0053",
+        "quantity": 3
+      },
+      {
+        "partNumber": "40-0054",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0055",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0056",
+        "quantity": 2
+      },
+      {
+        "partNumber": "40-0057",
+        "quantity": 2
+      },
+      {
+        "partNumber": "40-0058",
+        "quantity": 2
+      },
+      {
+        "partNumber": "40-0059",
+        "quantity": 2
+      },
+      {
+        "partNumber": "40-0061",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0062",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0063",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0064",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0066",
+        "quantity": 2
+      },
+      {
+        "partNumber": "40-0067",
+        "quantity": 2
+      },
+      {
+        "partNumber": "40-0068",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0069",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0070",
+        "quantity": 2
+      },
+      {
+        "partNumber": "40-0071",
+        "quantity": 2
+      },
+      {
+        "partNumber": "40-0072",
+        "quantity": 2
+      },
+      {
+        "partNumber": "40-0073",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0074",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0075",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0076",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0077",
+        "quantity": 1
+      },
+      {
+        "partNumber": "40-0078",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "partNumber": "40-0035",
+    "name": "EveryRoad, Circuit Board",
+    "partType": "COMPONENT",
+    "price": 0.70
+  },
+  {
+    "partNumber": "40-0038",
+    "name": "GPS Micro controller",
+    "partType": "PURCHASE",
+    "price": 1.06
+  },
+  {
+    "partNumber": "40-0039",
+    "name": "USB Connector",
+    "partType": "PURCHASE",
+    "price": 0.58
+  },
+  {
+    "partNumber": "40-0041",
+    "name": "0.1uF Ceramic Chip Capacitor",
+    "partType": "PURCHASE",
+    "price": 0.97
+  },
+  {
+    "partNumber": "40-0042",
+    "name": "10k Resistor",
+    "partType": "PURCHASE",
+    "price": 1.33
+  },
+  {
+    "partNumber": "40-0043",
+    "name": "1k Resistor",
+    "partType": "PURCHASE",
+    "price": 1.27
+  },
+  {
+    "partNumber": "40-0044",
+    "name": "1.0uF Ceramic Capacitor, 1206",
+    "partType": "PURCHASE",
+    "price": 1.35
+  },
+  {
+    "partNumber": "40-0045",
+    "name": "Low-dropout 5.0V 100mA Voltage Regulator",
+    "partType": "PURCHASE",
+    "price": 1.07
+  },
+  {
+    "partNumber": "40-0046",
+    "name": "100ohm Resistor",
+    "partType": "PURCHASE",
+    "price": 0.79
+  },
+  {
+    "partNumber": "40-0047",
+    "name": "51k Resistor",
+    "partType": "PURCHASE",
+    "price": 1.04
+  },
+  {
+    "partNumber": "40-0048",
+    "name": "470k Resistor",
+    "partType": "PURCHASE",
+    "price": 1.49
+  },
+  {
+    "partNumber": "40-0049",
+    "name": "500mW NPN Transistor",
+    "partType": "PURCHASE",
+    "price": 0.99
+  },
+  {
+    "partNumber": "40-0050",
+    "name": "Small-signal PNP Transistor",
+    "partType": "PURCHASE",
+    "price": 1.13
+  },
+  {
+    "partNumber": "40-0051",
+    "name": "470 ohm Resistor",
+    "partType": "PURCHASE",
+    "price": 0.95
+  },
+  {
+    "partNumber": "40-0052",
+    "name": "Tantalum Capacitor 10uF@16V,B pkg",
+    "partType": "PURCHASE",
+    "price": 1.31
+  },
+  {
+    "partNumber": "40-0053",
+    "name": "Tantalum Capacitor 4.7uF@4V,A pkg",
+    "partType": "PURCHASE",
+    "price": 0.88
+  },
+  {
+    "partNumber": "40-0054",
+    "name": "Voltage Detector CMOS 4.3V SOT23",
+    "partType": "PURCHASE",
+    "price": 1.28
+  },
+  {
+    "partNumber": "40-0055",
+    "name": "220k Resistor",
+    "partType": "PURCHASE",
+    "price": 1.27
+  },
+  {
+    "partNumber": "40-0056",
+    "name": "1M Resistor",
+    "partType": "PURCHASE",
+    "price": 0.65
+  },
+  {
+    "partNumber": "40-0057",
+    "name": "0.01uF Ceramic Chip Capacitor, 0603",
+    "partType": "PURCHASE",
+    "price": 0.54
+  },
+  {
+    "partNumber": "40-0058",
+    "name": "47 ohm Resistor",
+    "partType": "PURCHASE",
+    "price": 0.69
+  },
+  {
+    "partNumber": "40-0059",
+    "name": "Small-single NPN Transistor",
+    "partType": "PURCHASE",
+    "price": 0.98
+  },
+  {
+    "partNumber": "40-0061",
+    "name": "N-Chn Enhan-Md MOSFET",
+    "partType": "PURCHASE",
+    "price": 1.10
+  },
+  {
+    "partNumber": "40-0062",
+    "name": "3k Resistor",
+    "partType": "PURCHASE",
+    "price": 1.22
+  },
+  {
+    "partNumber": "40-0063",
+    "name": "Exclusive Or Gate single",
+    "partType": "PURCHASE",
+    "price": 0.91
+  },
+  {
+    "partNumber": "40-0064",
+    "name": "Speaker w/drive circuit 3-15volts",
+    "partType": "PURCHASE",
+    "price": 1.48
+  },
+  {
+    "partNumber": "40-0066",
+    "name": "Signal Diode",
+    "partType": "PURCHASE",
+    "price": 1.29
+  },
+  {
+    "partNumber": "40-0067",
+    "name": "2M Resistor",
+    "partType": "PURCHASE",
+    "price": 0.73
+  },
+  {
+    "partNumber": "40-0068",
+    "name": "P-Chan MOSFET SOT-223",
+    "partType": "PURCHASE",
+    "price": 0.60
+  },
+  {
+    "partNumber": "40-0069",
+    "name": "HE 2 Channel solid state relay (B form)",
+    "partType": "PURCHASE",
+    "price": 0.75
+  },
+  {
+    "partNumber": "40-0070",
+    "name": "Schottky Diode, 320mV@1mA",
+    "partType": "PURCHASE",
+    "price": 0.99
+  },
+  {
+    "partNumber": "40-0071",
+    "name": "Millmax 0666 Socket for 0.020 pins",
+    "partType": "PURCHASE",
+    "price": 1.15
+  },
+  {
+    "partNumber": "40-0072",
+    "name": "2.7k Resistor",
+    "partType": "PURCHASE",
+    "price": 0.83
+  },
+  {
+    "partNumber": "40-0073",
+    "name": "4.0 MHz Fixed oscillator",
+    "partType": "PURCHASE",
+    "price": 1.01
+  },
+  {
+    "partNumber": "40-0074",
+    "name": "Miniature Pushbutton Switch, Right Angle",
+    "partType": "PURCHASE",
+    "price": 1.21
+  },
+  {
+    "partNumber": "40-0075",
+    "name": "Single Logic Level P-Channel FET",
+    "partType": "PURCHASE",
+    "price": 0.64
+  },
+  {
+    "partNumber": "40-0076",
+    "name": "Red/Green SM LED",
+    "partType": "PURCHASE",
+    "price": 0.55
+  },
+  {
+    "partNumber": "40-0077",
+    "name": "Molex 4-pin 0.079 RA Header",
+    "partType": "PURCHASE",
+    "price": 1.16
+  },
+  {
+    "partNumber": "40-0078",
+    "name": "IR 40Khz Integrated Receiver Siemen",
+    "partType": "PURCHASE",
+    "price": 1.15
+  },
+  {
+    "partNumber": "50-0016",
+    "name": "EveryRoad, Rear Panel",
+    "partType": "COMPONENT",
+    "price": 0.89
+  },
+  {
+    "partNumber": "50-0089",
+    "name": "Screw, M2 x 5, ST, PH, Torx",
+    "partType": "PURCHASE",
+    "price": 1.12
+  },
+  {
+    "partNumber": "50-0010",
+    "name": "Screw, M3 x 6, ST, PH, Torx",
+    "partType": "PURCHASE",
+    "price": 1.09
+  },
+  {
+    "partNumber": "50-0018",
+    "name": "EveryRoad Model 300 Safety Label",
+    "partType": "COMPONENT",
+    "price": 0.70
+  },
+  {
+    "partNumber": "20-0005",
+    "name": "Package Documentation",
+    "partType": "PURCHASE",
+    "price": 0.62
+  },
+  {
+    "partNumber": "90-0006",
+    "name": "Manual - Model 300/500",
+    "partType": "COMPONENT",
+    "price": 0.86
+  },
+  {
+    "partNumber": "90-0007",
+    "name": "Warranty Card",
+    "partType": "PURCHASE",
+    "price": 1.34
+  },
+  {
+    "partNumber": "30-0085",
+    "name": "Packaging",
+    "partType": "COMPONENT",
+    "price": 0.76
+  },
+  {
+    "partNumber": "50-0087",
+    "name": "EveryRoad Model 300 US Boxed Product Label",
+    "partType": "COMPONENT",
+    "price": 1.28
+  },
+  {
+    "partNumber": "50-0088",
+    "name": "Box with EveryRoad Logo, 5 in x 5 in x 5 in",
+    "partType": "COMPONENT",
+    "price": 1.27
+  },
+  {
+    "partNumber": "40-0009",
+    "name": "Power Supply, US",
+    "partType": "PURCHASE",
+    "price": 1.01
+  },
+  {
+    "partNumber": "40-0081",
+    "name": "USB A/A Cable, Black",
+    "partType": "PURCHASE",
+    "price": 1.06
+  },
+  {
+    "partNumber": "40-0084",
+    "name": "USB to Car Power Adapter",
+    "partType": "PURCHASE",
+    "price": 0.69
+  },
+  {
+    "partNumber": "50-0083",
+    "name": "Hook & Loop (Velcro), Black, 2\" wide",
+    "partType": "PURCHASE",
+    "price": 1.11
+  }
+]
