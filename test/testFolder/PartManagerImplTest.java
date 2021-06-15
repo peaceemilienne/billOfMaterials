@@ -17,7 +17,7 @@ public class PartManagerImplTest {
 
 		int countParts = 0;
 		
-       // String filePath="src\\partPOJO\\bom.json";
+      
 		String filePath="C:\\Users\\peaceemilienne4\\Desktop\\projectsPeace\\billOfMaterials\\src\\partPOJO\\bom.json";
 		countParts = partImpl.importPartStore(filePath);
 		assertThat(79, is(countParts));
